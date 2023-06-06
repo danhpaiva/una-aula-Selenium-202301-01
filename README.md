@@ -15,6 +15,7 @@
 
 <h2 id=objective>📜 Objetivo</h2>
 Criar o primeiro projeto utilizando o Selenium e o Edge.<br>
+Projeto simples para entendimento da arquitetura e inicialização do projeto.
 
 
 <h2 id=installation>✔️ Instalação</h2>

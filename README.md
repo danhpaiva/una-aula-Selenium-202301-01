@@ -2,11 +2,11 @@
 
 <p align="center">
  <a href="#status">Status</a> • 
- <a href="#objective">Objective</a> •
- <a href="#installation">Installation</a> • 
- <a href="#technology">Technology</a> • 
- <a href="#author">Author</a> • 
- <a href="#licence">License</a>
+ <a href="#objective">Objetivo</a> •
+ <a href="#installation">Instalação</a> • 
+ <a href="#technology">Tecnologias</a> • 
+ <a href="#author">Autor</a> • 
+ <a href="#licence">Licença</a>
 </p>
 
 <h2 align="center" id=status> 
@@ -38,5 +38,6 @@ As seguintes tecnologias foram utilizadas neste projeto:
 Developed by <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Daniel Paiva</a>
 
 <h2 id=licence>🆓 Licença</h2>
+
 Este projeto está sob a licença
 <a href="https://github.com/danhpaiva/una-aula-Selenium-202301-01/blob/main/LICENSE" target="_blank">MIT</a>
